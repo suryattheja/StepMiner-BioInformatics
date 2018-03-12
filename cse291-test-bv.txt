@@ -1,0 +1,7 @@
+ArrayID	name	BitVector
+204673_at	MUC2: mucin 2, oligomeric mucus/gel-forming	0002212022
+205950_s_at	CA1: carbonic anhydrase I	0000200022
+203755_at	BUB1B: BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	2222000200
+202705_at	CCNB2: cyclin B2	2222001202
+206387_at	CDX2: caudal type homeobox 2	0022202012
+213953_at	KRT20: keratin 20	0022202022
